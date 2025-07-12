@@ -17,8 +17,3 @@ I am a Machine Learning Engineer with 6+ years of experience driving the develop
 - GenAI
 - Multi-model LLM
 - Trustworthy, Responsible and Explainable AI
-
-
-
-# Contact
-Email: rosneacharya@gmail.com
