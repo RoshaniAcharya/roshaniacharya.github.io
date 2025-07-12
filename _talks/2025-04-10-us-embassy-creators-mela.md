@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2025-04-10-us-embassy-creators-mela
 venue: "US Embassy Nepal, Creators Mela 2025"
-date: (April, 2025)
+date: 2025-04-08
 location: "Pokhara, Nepal"
 ---
 

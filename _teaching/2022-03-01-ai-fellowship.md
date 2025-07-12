@@ -4,7 +4,7 @@ collection: teaching
 type: "AI Fellowship course"
 permalink: /teaching/2022-03-01-ai-fellowship
 venue: "Fusemachines Nepal"
-date: (March, 2022) – (July, 2022)
+date: 2022-03-01
 location: "Kathmandu, Nepal"
 ---
 
