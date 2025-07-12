@@ -11,41 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Tribhuvan University Kathmandu, Nepal
+  * Bachelor of Science - Computer Science and Information Technology (2014-2018)
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sr. Machine Learning Engineer at Fusemachines Nepal **Jan 2020 - Present**
+* Software Engineer, Machine Learning at Treeleaf Technologies, Nepal **Aug 2018 - Jan 2020**
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: 
+  * Python, C/C++ 
+* Libraries & Frameworks:
+  * NumPy, Pandas, scikit-learn, Matplotlib, Plotly, Keras, TensorFlow, PyTorch, Transformers, Tokenizers, Selenium, DeepSpeech, Kaldi, PyQt, Boto3 
+* Web Frameworks & APIs:
+  * FastAPI, Flask, Django 
+* Databases & Search Engines:
+  * MySQL, MongoDB, Elasticsearch, ClickHouse 
+* Cloud & Deployment Platforms:
+  * AWS (EC2, S3, SQS, SageMaker, Athena), Vertex AI, Google Cloud Storage (GCS), Docker 
+* LLM & Generative AI Tools:
+  * OpenAI API, Google-adk, vLLM, Ollama, LangChain, LLaMA, LangGraph, Smolagents, Prompt Engineering, Few-Shot Learning 
+* Version Control & DevOps:
+  * Git 
+* NLP Tools:
+  * SpaCy, NLTK, CoreNLP, Gensim, BeautifulSoup 
+* Computer Vision Tools:
+  * OpenCV, Pillow, Tesseract, PaddlePaddle
 
-Publications
+
+Academic/Personal Projects
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## [Fraud Transaction detection, Personal Project, (2024)]()
+Classification of financial transaction
+* Created a fraud transaction classification - fraudulent and non-fraudulent - model on an imbalanced dataset with comprehensive analysis including univariate, bivariate, and multivariate analyses; hypothesis testing; and 
+assessments of categorical, numerical, and temporal data.
+
+
+## [HIV/AIDS Performance Prediction System (Final Year Project)]()
+Classification of health status using medical records history
+* A Performance Prediction System of ongoing treatment of HIV/AIDS infected patients, using data mining modeling
+technique.
   
 Talks
 ======

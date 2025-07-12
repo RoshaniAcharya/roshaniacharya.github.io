@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Machine Learning Engineer with over six years of experience in Artificial Intelligence and Natural Language Processing,
+I am a Machine Learning Engineer with 6+ years of experience driving the development and deployment of production-grade NLP and CV projects. Led two in-house AI products focused on document intelligence, involving classification, key-value extraction, summarization, and analytical workflows. Extensive hands-on experience with LLMs, Vision LLMs, multi-agent systems, and prompt engineering. Skilled in building scalable ML pipelines using PyTorch, TensorFlow, Scikit-Learn, FastAPI, and cloud platforms like AWS and Vertex AI. Proven ability to lead teams, optimize model performance, and deliver reliable solutions in real-world environments.
 
 # Research Interest
 
@@ -21,5 +21,4 @@ I am a Machine Learning Engineer with over six years of experience in Artificial
 
 
 # Contact
-
-Email: rosneacharya[at]gmail[dot]com
+Email: rosneacharya@gmail.com
