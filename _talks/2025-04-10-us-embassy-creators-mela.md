@@ -8,9 +8,8 @@ date: 2025-04-08
 location: "Pokhara, Nepal"
 ---
 
-[//]: # (<img src="../images/us-embassy-event.jpg"> )
-<img src="/images/us-embassy-event.png" alt="US Embassy Event">
+<img src="/images/us-embassy-event.png" alt="US Embassy Event" style="max-width: 100%; border-radius: 10px;">
 
 I was a part of a panel discussion at the US Embassy Creator’s Mela 2025 in Pokhara. The session, titled "AI for the Next Gen – Unlocking Digital Tools for Creative & Responsible Innovation," featured insightful conversations about AI alongside fellow speakers Aayush Kasajoo and Ashwin Neupane. The session was moderated by Avinash Kundaliya. 
 
-The enthusiasm shown by the youth towards AI was truly inspiring. I would like to extend our gratitude to the US Embassy Nepal for the invitation. I was thrilled to be a part of Creator’s Mela 2025 in Pokhara. 
+The enthusiasm shown by the youth towards AI was truly inspiring. I would like to extend our gratitude to the US Embassy Nepal for the invitation. I was thrilled to be a part of Creator’s Mela 2025 in Pokhara.
