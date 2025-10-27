@@ -12,12 +12,3 @@ location: "Kathmandu, Nepal"
 to undergraduate B.Sc.CSIT students and engineering students.
 * Course topics: Introduction to Machine Learning, Linear Regression, Logistic Regression, Decision Tree, Ensemble methods,
 Probabilistic Models, Clustering, Dimensionality Reduction, Time Series Analysis, Reinforcement Learning
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3  
-======
